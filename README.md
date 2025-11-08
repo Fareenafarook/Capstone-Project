@@ -75,7 +75,6 @@ Conclusion
 
 Derived key insights for insurers and policyholders.
 
-Limitations & Future Scope
 
 Suggested adding more behavioral and regional factors.
 
@@ -104,6 +103,7 @@ Box / Violin Plot	Identify outliers and spread
 Scatter Plot	Show relationships between variables
 Heatmap	Display correlations
 Pivot Table	Summarize averages by groups
+
 🧠 Tools and Libraries
 
 Python
